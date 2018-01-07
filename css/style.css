@@ -1,0 +1,33 @@
+body{
+    background: blue;
+}
+h2{
+    
+    background: black;
+    color: white;
+    text-align: center;
+    border: 1px solid red;
+}
+div{
+        width: 100%;
+        background: black;
+}
+  
+tr,th,td{
+    width:25%;
+    color: white;
+    border: 1px solid red;
+    text-align: center;
+}
+table{
+    border: 2px solid red;
+    border-collapse: collapse;
+}
+p{
+	backgroung:seagreen
+	color:white
+	text-align:center	
+}
+
+
+
